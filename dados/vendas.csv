@@ -1,0 +1,289 @@
+﻿id_venda,data_venda,unidade,produto,quantidade,valor_unitario,valor_total
+V0001,2026-01-03,Centro,Protecao Renda,2,430,860
+V0002,2026-01-18,Centro,Assistencia,4,180,720
+V0003,2026-01-17,Centro,Seguro Residencial,2,320,640
+V0004,2026-01-16,Centro,Seguro Vida,1,850,850
+V0005,2026-01-15,Centro,Protecao Renda,2,430,860
+V0006,2026-01-14,Centro,Assistencia,2,180,360
+V0007,2026-01-01,Centro,Seguro Residencial,4,320,1280
+V0008,2026-01-27,Centro,Seguro Vida,4,850,3400
+V0009,2026-01-13,Centro,Protecao Renda,3,430,1290
+V0010,2026-01-08,Centro,Assistencia,2,180,360
+V0011,2026-01-15,Centro,Seguro Residencial,2,320,640
+V0012,2026-01-21,Centro,Seguro Vida,2,850,1700
+V0013,2026-01-12,Zona Norte,Assistencia,2,180,360
+V0014,2026-01-13,Zona Norte,Seguro Residencial,4,320,1280
+V0015,2026-01-10,Zona Norte,Seguro Vida,1,850,850
+V0016,2026-01-21,Zona Norte,Protecao Renda,2,430,860
+V0017,2026-01-19,Zona Norte,Assistencia,3,180,540
+V0018,2026-01-27,Zona Norte,Seguro Residencial,2,320,640
+V0019,2026-01-15,Zona Norte,Seguro Vida,4,850,3400
+V0020,2026-01-21,Zona Norte,Protecao Renda,2,430,860
+V0021,2026-01-20,Zona Norte,Assistencia,1,180,180
+V0022,2026-01-28,Zona Norte,Seguro Residencial,2,320,640
+V0023,2026-01-06,Zona Norte,Seguro Vida,1,850,850
+V0024,2026-01-12,Zona Norte,Protecao Renda,2,430,860
+V0025,2026-01-21,Zona Sul,Seguro Residencial,4,320,1280
+V0026,2026-01-22,Zona Sul,Seguro Vida,3,850,2550
+V0027,2026-01-27,Zona Sul,Protecao Renda,5,430,2150
+V0028,2026-01-10,Zona Sul,Assistencia,3,180,540
+V0029,2026-01-05,Zona Sul,Seguro Residencial,5,320,1600
+V0030,2026-01-24,Zona Sul,Seguro Vida,4,850,3400
+V0031,2026-01-27,Zona Sul,Protecao Renda,3,430,1290
+V0032,2026-01-08,Zona Sul,Assistencia,3,180,540
+V0033,2026-01-02,Zona Sul,Seguro Residencial,3,320,960
+V0034,2026-01-14,Zona Sul,Seguro Vida,5,850,4250
+V0035,2026-01-17,Zona Sul,Protecao Renda,5,430,2150
+V0036,2026-01-12,Zona Sul,Assistencia,5,180,900
+V0037,2026-01-20,Zona Leste,Seguro Vida,2,850,1700
+V0038,2026-01-11,Zona Leste,Protecao Renda,3,430,1290
+V0039,2026-01-20,Zona Leste,Assistencia,3,180,540
+V0040,2026-01-26,Zona Leste,Seguro Residencial,2,320,640
+V0041,2026-01-16,Zona Leste,Seguro Vida,4,850,3400
+V0042,2026-01-05,Zona Leste,Protecao Renda,3,430,1290
+V0043,2026-01-16,Zona Leste,Assistencia,1,180,180
+V0044,2026-01-26,Zona Leste,Seguro Residencial,4,320,1280
+V0045,2026-01-08,Zona Leste,Seguro Vida,4,850,3400
+V0046,2026-01-17,Zona Leste,Protecao Renda,3,430,1290
+V0047,2026-01-09,Zona Leste,Assistencia,2,180,360
+V0048,2026-01-20,Zona Leste,Seguro Residencial,4,320,1280
+V0049,2026-02-15,Centro,Assistencia,2,180,360
+V0050,2026-02-22,Centro,Seguro Residencial,1,320,320
+V0051,2026-02-27,Centro,Seguro Vida,4,850,3400
+V0052,2026-02-11,Centro,Protecao Renda,2,430,860
+V0053,2026-02-14,Centro,Assistencia,4,180,720
+V0054,2026-02-05,Centro,Seguro Residencial,3,320,960
+V0055,2026-02-18,Centro,Seguro Vida,3,850,2550
+V0056,2026-02-12,Centro,Protecao Renda,2,430,860
+V0057,2026-02-25,Centro,Assistencia,1,180,180
+V0058,2026-02-04,Centro,Seguro Residencial,4,320,1280
+V0059,2026-02-28,Centro,Seguro Vida,2,850,1700
+V0060,2026-02-22,Centro,Protecao Renda,4,430,1720
+V0061,2026-02-14,Zona Norte,Seguro Residencial,1,320,320
+V0062,2026-02-04,Zona Norte,Seguro Vida,2,850,1700
+V0063,2026-02-15,Zona Norte,Protecao Renda,2,430,860
+V0064,2026-02-17,Zona Norte,Assistencia,2,180,360
+V0065,2026-02-24,Zona Norte,Seguro Residencial,2,320,640
+V0066,2026-02-17,Zona Norte,Seguro Vida,3,850,2550
+V0067,2026-02-24,Zona Norte,Protecao Renda,3,430,1290
+V0068,2026-02-15,Zona Norte,Assistencia,1,180,180
+V0069,2026-02-21,Zona Norte,Seguro Residencial,1,320,320
+V0070,2026-02-01,Zona Norte,Seguro Vida,3,850,2550
+V0071,2026-02-12,Zona Norte,Protecao Renda,1,430,430
+V0072,2026-02-15,Zona Norte,Assistencia,3,180,540
+V0073,2026-02-05,Zona Sul,Seguro Vida,2,850,1700
+V0074,2026-02-22,Zona Sul,Protecao Renda,3,430,1290
+V0075,2026-02-28,Zona Sul,Assistencia,4,180,720
+V0076,2026-02-02,Zona Sul,Seguro Residencial,2,320,640
+V0077,2026-02-25,Zona Sul,Seguro Vida,5,850,4250
+V0078,2026-02-15,Zona Sul,Protecao Renda,4,430,1720
+V0079,2026-02-21,Zona Sul,Assistencia,5,180,900
+V0080,2026-02-24,Zona Sul,Seguro Residencial,4,320,1280
+V0081,2026-02-18,Zona Sul,Seguro Vida,2,850,1700
+V0082,2026-02-14,Zona Sul,Protecao Renda,3,430,1290
+V0083,2026-02-12,Zona Sul,Assistencia,4,180,720
+V0084,2026-02-12,Zona Sul,Seguro Residencial,2,320,640
+V0085,2026-02-24,Zona Leste,Protecao Renda,3,430,1290
+V0086,2026-02-22,Zona Leste,Assistencia,1,180,180
+V0087,2026-02-23,Zona Leste,Seguro Residencial,3,320,960
+V0088,2026-02-10,Zona Leste,Seguro Vida,2,850,1700
+V0089,2026-02-25,Zona Leste,Protecao Renda,2,430,860
+V0090,2026-02-06,Zona Leste,Assistencia,4,180,720
+V0091,2026-02-06,Zona Leste,Seguro Residencial,3,320,960
+V0092,2026-02-08,Zona Leste,Seguro Vida,1,850,850
+V0093,2026-02-26,Zona Leste,Protecao Renda,4,430,1720
+V0094,2026-02-01,Zona Leste,Assistencia,1,180,180
+V0095,2026-02-19,Zona Leste,Seguro Residencial,3,320,960
+V0096,2026-02-07,Zona Leste,Seguro Vida,3,850,2550
+V0097,2026-03-02,Centro,Seguro Residencial,3,320,960
+V0098,2026-03-09,Centro,Seguro Vida,4,850,3400
+V0099,2026-03-17,Centro,Protecao Renda,1,430,430
+V0100,2026-03-25,Centro,Assistencia,2,180,360
+V0101,2026-03-19,Centro,Seguro Residencial,1,320,320
+V0102,2026-03-12,Centro,Seguro Vida,3,850,2550
+V0103,2026-03-14,Centro,Protecao Renda,3,430,1290
+V0104,2026-03-10,Centro,Assistencia,3,180,540
+V0105,2026-03-13,Centro,Seguro Residencial,4,320,1280
+V0106,2026-03-28,Centro,Seguro Vida,3,850,2550
+V0107,2026-03-06,Centro,Protecao Renda,3,430,1290
+V0108,2026-03-16,Centro,Assistencia,4,180,720
+V0109,2026-03-13,Zona Norte,Seguro Vida,2,850,1700
+V0110,2026-03-15,Zona Norte,Protecao Renda,4,430,1720
+V0111,2026-03-26,Zona Norte,Assistencia,4,180,720
+V0112,2026-03-04,Zona Norte,Seguro Residencial,2,320,640
+V0113,2026-03-07,Zona Norte,Seguro Vida,2,850,1700
+V0114,2026-03-15,Zona Norte,Protecao Renda,4,430,1720
+V0115,2026-03-23,Zona Norte,Assistencia,1,180,180
+V0116,2026-03-20,Zona Norte,Seguro Residencial,1,320,320
+V0117,2026-03-19,Zona Norte,Seguro Vida,1,850,850
+V0118,2026-03-15,Zona Norte,Protecao Renda,2,430,860
+V0119,2026-03-15,Zona Norte,Assistencia,1,180,180
+V0120,2026-03-20,Zona Norte,Seguro Residencial,3,320,960
+V0121,2026-03-07,Zona Sul,Protecao Renda,4,430,1720
+V0122,2026-03-01,Zona Sul,Assistencia,3,180,540
+V0123,2026-03-04,Zona Sul,Seguro Residencial,5,320,1600
+V0124,2026-03-04,Zona Sul,Seguro Vida,3,850,2550
+V0125,2026-03-18,Zona Sul,Protecao Renda,4,430,1720
+V0126,2026-03-04,Zona Sul,Assistencia,4,180,720
+V0127,2026-03-21,Zona Sul,Seguro Residencial,4,320,1280
+V0128,2026-03-09,Zona Sul,Seguro Vida,3,850,2550
+V0129,2026-03-25,Zona Sul,Protecao Renda,5,430,2150
+V0130,2026-03-03,Zona Sul,Assistencia,2,180,360
+V0131,2026-03-16,Zona Sul,Seguro Residencial,5,320,1600
+V0132,2026-03-04,Zona Sul,Seguro Vida,2,850,1700
+V0133,2026-03-14,Zona Leste,Assistencia,3,180,540
+V0134,2026-03-11,Zona Leste,Seguro Residencial,1,320,320
+V0135,2026-03-15,Zona Leste,Seguro Vida,3,850,2550
+V0136,2026-03-24,Zona Leste,Protecao Renda,4,430,1720
+V0137,2026-03-10,Zona Leste,Assistencia,4,180,720
+V0138,2026-03-18,Zona Leste,Seguro Residencial,4,320,1280
+V0139,2026-03-05,Zona Leste,Seguro Vida,2,850,1700
+V0140,2026-03-09,Zona Leste,Protecao Renda,1,430,430
+V0141,2026-03-28,Zona Leste,Assistencia,2,180,360
+V0142,2026-03-04,Zona Leste,Seguro Residencial,1,320,320
+V0143,2026-03-25,Zona Leste,Seguro Vida,1,850,850
+V0144,2026-03-09,Zona Leste,Protecao Renda,1,430,430
+V0145,2026-04-17,Centro,Seguro Vida,4,850,3400
+V0146,2026-04-27,Centro,Protecao Renda,2,430,860
+V0147,2026-04-25,Centro,Assistencia,1,180,180
+V0148,2026-04-07,Centro,Seguro Residencial,4,320,1280
+V0149,2026-04-11,Centro,Seguro Vida,1,850,850
+V0150,2026-04-18,Centro,Protecao Renda,4,430,1720
+V0151,2026-04-17,Centro,Assistencia,4,180,720
+V0152,2026-04-28,Centro,Seguro Residencial,3,320,960
+V0153,2026-04-25,Centro,Seguro Vida,1,850,850
+V0154,2026-04-02,Centro,Protecao Renda,2,430,860
+V0155,2026-04-10,Centro,Assistencia,1,180,180
+V0156,2026-04-15,Centro,Seguro Residencial,1,320,320
+V0157,2026-04-15,Zona Norte,Protecao Renda,1,430,430
+V0158,2026-04-26,Zona Norte,Assistencia,4,180,720
+V0159,2026-04-03,Zona Norte,Seguro Residencial,4,320,1280
+V0160,2026-04-15,Zona Norte,Seguro Vida,3,850,2550
+V0161,2026-04-19,Zona Norte,Protecao Renda,3,430,1290
+V0162,2026-04-25,Zona Norte,Assistencia,2,180,360
+V0163,2026-04-26,Zona Norte,Seguro Residencial,4,320,1280
+V0164,2026-04-05,Zona Norte,Seguro Vida,3,850,2550
+V0165,2026-04-20,Zona Norte,Protecao Renda,2,430,860
+V0166,2026-04-18,Zona Norte,Assistencia,2,180,360
+V0167,2026-04-17,Zona Norte,Seguro Residencial,3,320,960
+V0168,2026-04-15,Zona Norte,Seguro Vida,3,850,2550
+V0169,2026-04-22,Zona Sul,Assistencia,5,180,900
+V0170,2026-04-10,Zona Sul,Seguro Residencial,4,320,1280
+V0171,2026-04-08,Zona Sul,Seguro Vida,4,850,3400
+V0172,2026-04-13,Zona Sul,Protecao Renda,5,430,2150
+V0173,2026-04-28,Zona Sul,Assistencia,3,180,540
+V0174,2026-04-04,Zona Sul,Seguro Residencial,2,320,640
+V0175,2026-04-17,Zona Sul,Seguro Vida,3,850,2550
+V0176,2026-04-03,Zona Sul,Protecao Renda,4,430,1720
+V0177,2026-04-16,Zona Sul,Assistencia,5,180,900
+V0178,2026-04-08,Zona Sul,Seguro Residencial,2,320,640
+V0179,2026-04-20,Zona Sul,Seguro Vida,2,850,1700
+V0180,2026-04-26,Zona Sul,Protecao Renda,2,430,860
+V0181,2026-04-24,Zona Leste,Seguro Residencial,3,320,960
+V0182,2026-04-12,Zona Leste,Seguro Vida,3,850,2550
+V0183,2026-04-04,Zona Leste,Protecao Renda,2,430,860
+V0184,2026-04-22,Zona Leste,Assistencia,3,180,540
+V0185,2026-04-27,Zona Leste,Seguro Residencial,4,320,1280
+V0186,2026-04-02,Zona Leste,Seguro Vida,2,850,1700
+V0187,2026-04-01,Zona Leste,Protecao Renda,2,430,860
+V0188,2026-04-13,Zona Leste,Assistencia,3,180,540
+V0189,2026-04-18,Zona Leste,Seguro Residencial,4,320,1280
+V0190,2026-04-10,Zona Leste,Seguro Vida,4,850,3400
+V0191,2026-04-18,Zona Leste,Protecao Renda,4,430,1720
+V0192,2026-04-06,Zona Leste,Assistencia,1,180,180
+V0193,2026-05-15,Centro,Protecao Renda,2,430,860
+V0194,2026-05-28,Centro,Assistencia,1,180,180
+V0195,2026-05-07,Centro,Seguro Residencial,3,320,960
+V0196,2026-05-15,Centro,Seguro Vida,1,850,850
+V0197,2026-05-23,Centro,Protecao Renda,4,430,1720
+V0198,2026-05-05,Centro,Assistencia,1,180,180
+V0199,2026-05-25,Centro,Seguro Residencial,2,320,640
+V0200,2026-05-02,Centro,Seguro Vida,1,850,850
+V0201,2026-05-24,Centro,Protecao Renda,4,430,1720
+V0202,2026-05-21,Centro,Assistencia,4,180,720
+V0203,2026-05-08,Centro,Seguro Residencial,2,320,640
+V0204,2026-05-22,Centro,Seguro Vida,4,850,3400
+V0205,2026-05-13,Zona Norte,Assistencia,1,180,180
+V0206,2026-05-24,Zona Norte,Seguro Residencial,3,320,960
+V0207,2026-05-23,Zona Norte,Seguro Vida,3,850,2550
+V0208,2026-05-18,Zona Norte,Protecao Renda,4,430,1720
+V0209,2026-05-06,Zona Norte,Assistencia,3,180,540
+V0210,2026-05-12,Zona Norte,Seguro Residencial,2,320,640
+V0211,2026-05-26,Zona Norte,Seguro Vida,4,850,3400
+V0212,2026-05-25,Zona Norte,Protecao Renda,1,430,430
+V0213,2026-05-28,Zona Norte,Assistencia,4,180,720
+V0214,2026-05-28,Zona Norte,Seguro Residencial,2,320,640
+V0215,2026-05-09,Zona Norte,Seguro Vida,4,850,3400
+V0216,2026-05-06,Zona Norte,Protecao Renda,4,430,1720
+V0217,2026-05-04,Zona Sul,Seguro Residencial,4,320,1280
+V0218,2026-05-04,Zona Sul,Seguro Vida,2,850,1700
+V0219,2026-05-23,Zona Sul,Protecao Renda,2,430,860
+V0220,2026-05-06,Zona Sul,Assistencia,2,180,360
+V0221,2026-05-09,Zona Sul,Seguro Residencial,5,320,1600
+V0222,2026-05-07,Zona Sul,Seguro Vida,3,850,2550
+V0223,2026-05-22,Zona Sul,Protecao Renda,3,430,1290
+V0224,2026-05-16,Zona Sul,Assistencia,4,180,720
+V0225,2026-05-23,Zona Sul,Seguro Residencial,4,320,1280
+V0226,2026-05-18,Zona Sul,Seguro Vida,4,850,3400
+V0227,2026-05-04,Zona Sul,Protecao Renda,5,430,2150
+V0228,2026-05-17,Zona Sul,Assistencia,2,180,360
+V0229,2026-05-08,Zona Leste,Seguro Vida,3,850,2550
+V0230,2026-05-26,Zona Leste,Protecao Renda,4,430,1720
+V0231,2026-05-07,Zona Leste,Assistencia,2,180,360
+V0232,2026-05-04,Zona Leste,Seguro Residencial,2,320,640
+V0233,2026-05-21,Zona Leste,Seguro Vida,1,850,850
+V0234,2026-05-05,Zona Leste,Protecao Renda,4,430,1720
+V0235,2026-05-12,Zona Leste,Assistencia,1,180,180
+V0236,2026-05-22,Zona Leste,Seguro Residencial,4,320,1280
+V0237,2026-05-12,Zona Leste,Seguro Vida,3,850,2550
+V0238,2026-05-12,Zona Leste,Protecao Renda,1,430,430
+V0239,2026-05-07,Zona Leste,Assistencia,4,180,720
+V0240,2026-05-04,Zona Leste,Seguro Residencial,1,320,320
+V0241,2026-06-26,Centro,Assistencia,3,180,540
+V0242,2026-06-06,Centro,Seguro Residencial,3,320,960
+V0243,2026-06-01,Centro,Seguro Vida,2,850,1700
+V0244,2026-06-20,Centro,Protecao Renda,3,430,1290
+V0245,2026-06-25,Centro,Assistencia,2,180,360
+V0246,2026-06-24,Centro,Seguro Residencial,1,320,320
+V0247,2026-06-03,Centro,Seguro Vida,3,850,2550
+V0248,2026-06-16,Centro,Protecao Renda,2,430,860
+V0249,2026-06-16,Centro,Assistencia,3,180,540
+V0250,2026-06-08,Centro,Seguro Residencial,2,320,640
+V0251,2026-06-12,Centro,Seguro Vida,4,850,3400
+V0252,2026-06-13,Centro,Protecao Renda,4,430,1720
+V0253,2026-06-05,Zona Norte,Seguro Residencial,2,320,640
+V0254,2026-06-20,Zona Norte,Seguro Vida,3,850,2550
+V0255,2026-06-09,Zona Norte,Protecao Renda,1,430,430
+V0256,2026-06-10,Zona Norte,Assistencia,4,180,720
+V0257,2026-06-15,Zona Norte,Seguro Residencial,4,320,1280
+V0258,2026-06-10,Zona Norte,Seguro Vida,3,850,2550
+V0259,2026-06-16,Zona Norte,Protecao Renda,1,430,430
+V0260,2026-06-26,Zona Norte,Assistencia,4,180,720
+V0261,2026-06-08,Zona Norte,Seguro Residencial,3,320,960
+V0262,2026-06-17,Zona Norte,Seguro Vida,4,850,3400
+V0263,2026-06-15,Zona Norte,Protecao Renda,3,430,1290
+V0264,2026-06-20,Zona Norte,Assistencia,2,180,360
+V0265,2026-06-19,Zona Sul,Seguro Vida,3,850,2550
+V0266,2026-06-18,Zona Sul,Protecao Renda,5,430,2150
+V0267,2026-06-01,Zona Sul,Assistencia,2,180,360
+V0268,2026-06-15,Zona Sul,Seguro Residencial,4,320,1280
+V0269,2026-06-28,Zona Sul,Seguro Vida,3,850,2550
+V0270,2026-06-21,Zona Sul,Protecao Renda,5,430,2150
+V0271,2026-06-25,Zona Sul,Assistencia,5,180,900
+V0272,2026-06-13,Zona Sul,Seguro Residencial,2,320,640
+V0273,2026-06-04,Zona Sul,Seguro Vida,4,850,3400
+V0274,2026-06-14,Zona Sul,Protecao Renda,5,430,2150
+V0275,2026-06-14,Zona Sul,Assistencia,2,180,360
+V0276,2026-06-14,Zona Sul,Seguro Residencial,4,320,1280
+V0277,2026-06-15,Zona Leste,Protecao Renda,1,430,430
+V0278,2026-06-14,Zona Leste,Assistencia,3,180,540
+V0279,2026-06-03,Zona Leste,Seguro Residencial,3,320,960
+V0280,2026-06-17,Zona Leste,Seguro Vida,3,850,2550
+V0281,2026-06-17,Zona Leste,Protecao Renda,3,430,1290
+V0282,2026-06-21,Zona Leste,Assistencia,4,180,720
+V0283,2026-06-28,Zona Leste,Seguro Residencial,1,320,320
+V0284,2026-06-01,Zona Leste,Seguro Vida,1,850,850
+V0285,2026-06-13,Zona Leste,Protecao Renda,4,430,1720
+V0286,2026-06-25,Zona Leste,Assistencia,2,180,360
+V0287,2026-06-11,Zona Leste,Seguro Residencial,4,320,1280
+V0288,2026-06-24,Zona Leste,Seguro Vida,4,850,3400
